@@ -13,10 +13,19 @@ Overview Report :
 
 🛠️ Tools Used :
 
-A- Excel 
-1.
-2.
-3.
-4.
+● Excel 
+1. Data Import
+2. Data Cleaning
+3. Pivot Table Creation
+4. Report Buiding and Visualization
 
 📊 Insights Generation :
+
+🛠️ Tools Used :
+● MySQL:
+1. Database Dump
+2. Data Checkup & Cleanup
+3. Ad Hoc Analysis
+4. Solved business problems through SQL queries.
+
+📊 Insights & Recommedations: 
