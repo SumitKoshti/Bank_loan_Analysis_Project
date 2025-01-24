@@ -9,4 +9,14 @@ Overview Report :
 
 ![See Report](Overview_Report.png)
 
-💡 Project Process -->
+🔧 Project Process -->
+
+🛠️ Tools Used :
+A- Excel :
+1. 
+2.
+3.
+4.
+
+
+📊 Insights Generation :
