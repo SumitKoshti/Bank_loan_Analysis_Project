@@ -13,11 +13,10 @@ Overview Report :
 
 🛠️ Tools Used :
 
-A- Excel :
+A- Excel 
 1.
 2.
 3.
 4.
-
 
 📊 Insights Generation :
