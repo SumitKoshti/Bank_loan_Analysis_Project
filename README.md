@@ -20,12 +20,3 @@ Overview Report :
 4. Report Buiding and Visualization
 
 📊 Insights Generation :
-
-🛠️ Tools Used :
-● MySQL:
-1. Database Dump
-2. Data Checkup & Cleanup
-3. Ad Hoc Analysis
-4. Solved business problems through SQL queries.
-
-📊 Insights & Recommedations: 
